@@ -5,6 +5,9 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakupbudak&label=Profile%20views&color=0e75b6&style=flat" alt="yakupbudak" /> </p>
+<img src="https://nti.us/wp-content/uploads/2018/09/programmer.gif">
+
+
 
 
 - I'm curious if **you can solve the Rubiks Cube?:)**
