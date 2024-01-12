@@ -23,7 +23,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 <p align="left">
 </p>
 
-<video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/man-developed-code-for-app-development-6764704-5627317.mp4"</video>
+<video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/man-developed-code-for-app-development-6764704-5627317.mp4" />
 
 
 <h2 align="left">Languages and some tools i prefere to use:</h2>
