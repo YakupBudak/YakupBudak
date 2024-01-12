@@ -9,7 +9,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 
 
-<h2>You have one wish if you can solve the Rubik's Cube :)*</h2>
+<h2>You have one wish if you can solve the Rubik's Cube :)</h2>
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100"/>
 
 
@@ -19,7 +19,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,godot,visualstudio,vscode,idea,java,php,mysql,html,css,js,github,py,raspberrypi,ps," />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,godot,visualstudio,vscode,idea,java,php,mysql,html,css,js,github,ps," />
   </a>
 </p    
 
@@ -32,7 +32,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 
  
- - 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org**
-<p align="left">
+ <p align="center" - 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org**>
+<p align="center">
 </p>    
 
