@@ -14,7 +14,8 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 - <img src="https://5.imimg.com/data5/WI/DO/HV/SELLER-31836682/shengshou-moyo-magic-rubik-cube-3x3-puzzle-educational-toy-500x500-500x500.jpg" alt="" width="40" height="40"/>
 
 <h3 align="left">Connect with me on </h3>
-<h4 align="left"><img src="https://www.xing.com/"<br> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></h4>
+<h4 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3L3dNFH4gcVN5bLaLKGomFjas50kYI8aag&usqp=CAU" width="55" height="55" alt="" <br></h4> 
+<h4> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></h4>
 - 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org**
 <p align="left">
 </p>
