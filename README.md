@@ -32,5 +32,5 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 </div>
 
  
- <h4 align="center"> 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org** </h4> 
+ <h4 align="center"> 📫 How to reach me for (any) kind of questions [y.budak@mailbox.org] </h4> 
 
