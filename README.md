@@ -1,6 +1,6 @@
 ### Welcome To my GitHub Profile ### 
 <h1 align="center">Hello There :) my name is Yakup Budak</h1>
-<h3 align="center">A passionate full-stack developer from Hamburg, Germany <br>
+<h3 align="center">A passionate Learning full-stack developer from Hamburg, Germany <br>
 and I design and create new inspiring 3D models, architectures, homemade artworks and intuitive software 
 </h3>
 
