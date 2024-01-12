@@ -11,8 +11,8 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 - I'm curious if **you can solve the Rubiks Cube?:)**
 - <img src="https://5.imimg.com/data5/WI/DO/HV/SELLER-31836682/shengshou-moyo-magic-rubik-cube-3x3-puzzle-educational-toy-500x500-500x500.jpg" alt="" width="40" height="40"/>
 
-<h3 align="left">Connect with me: </h3>
-<h4 align="left"><br> Xing Yakup Budak <br> linkedIn Yakup Budak</h4>  
+<h3 align="left">Connect with me on </h3>
+<h4 align="left">Xing: Yakup Budak <br> linkedIn Yakup Budak</h4>  
 <p align="left">
 </p>
 
