@@ -10,7 +10,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 
 <h2 align="center">You have one wish if you can solve a Rubik's Cube :)</h2>
- <img  align="center"><a src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100" />
+ <img  align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100" />
 
 
 
