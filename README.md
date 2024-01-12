@@ -10,7 +10,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 
 - I'm curious if **you can solve the Rubiks Cube?:)**
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="100" height="100"/>
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100"/>
 
 <h3 align="left">Connect with me on </h3>
 <h4><a href="https://www.xing.com/profile/Yakup_Budak015270/web_profiles?expandNeffi=true"><img src="https://rheamoore.de/wp-content/uploads/xing-logo-white.jpg" width="55" height="55"></a></h4>
