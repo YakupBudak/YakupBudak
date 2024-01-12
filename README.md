@@ -1,7 +1,7 @@
 ### Welcome To my GitHub Profile ### 
 <h1 align="center">Hello There :) my name is Yakup Budak</h1>
 <h3 align="center">A passionate Learning full-stack developer from Hamburg, Germany <br>
-and I design and create new inspiring 3D models, architectures, homemade artworks and intuitive software 
+I design and create new inspiring 3D models, architectures, homemade artworks, intuitive software and some times i put all my creativity in a Website 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakupbudak&label=Profile%20views&color=0e75b6&style=flat" alt="yakupbudak" /> </p>
@@ -32,5 +32,5 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 </div>
 
  
- <p align="center" - 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org** /p>    
+ <p align="center">< 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org** /p>    
 
