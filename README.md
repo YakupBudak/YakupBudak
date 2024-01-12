@@ -10,7 +10,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 
 - I'm curious if **you can solve the Rubiks Cube?:)**
- <img src="https://dribbble.com/shots/2752320-Rubik-s-Cube" alt="" width="100" height="100"/>
+ <img src="https://dribbble.com/shots/2752320-Rubik-s-Cube"/>
 
 <h3 align="left">Connect with me on </h3>
 <h4><a href="https://www.xing.com/profile/Yakup_Budak015270/web_profiles?expandNeffi=true"><img src="https://rheamoore.de/wp-content/uploads/xing-logo-white.jpg" width="55" height="55"></a></h4>
