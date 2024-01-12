@@ -12,7 +12,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 <h3 align="left">Connect with me on </h3>
 <h4 align="left">Xing: Yakup Budak <br> linkedIn: Yakup Budak</h4>
-- 📫 How to reach me for (any) kind of questions **bobbysworkstation@gmail.com**
+- 📫 How to reach me for (any) kind of questions **y.budak@mailbox.org**
 <p align="left">
 </p>
 
