@@ -9,14 +9,13 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 
 
-
 - I'm curious if **you can solve the Rubiks Cube?:)**
  <img src="https://5.imimg.com/data5/WI/DO/HV/SELLER-31836682/shengshou-moyo-magic-rubik-cube-3x3-puzzle-educational-toy-500x500-500x500.jpg" alt="" width="40" height="40"/>
 
 <h3 align="left">Connect with me on </h3>
 <h4><a href="https://www.xing.com/profile/Yakup_Budak015270/web_profiles?expandNeffi=true"><img src="https://rheamoore.de/wp-content/uploads/xing-logo-white.jpg" width="55" height="55"></a></h4>
 <h4> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></h4>
-<a href="https://www.youtube.com/watch?v=RP4abiHdQp"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /a>
+<a href="https://www.youtube.com/watch?v=RP4abiHdQp"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /a>
 
 
  
@@ -25,7 +24,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 </p>
 
 <h2 align="left">Languages and some tools i prefere to use:</h2>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="python logo"  />  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> <p align="left"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="60" height="60" alt="html5 logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="javascript logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="css3 logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="python logo"  />  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> <p align="left"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="60" height="60" alt="html5 logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="javascript logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="css3 logo"  />
 
     
 
