@@ -27,7 +27,7 @@ and I design and create new inspiring 3D models, architectures, homemade artwork
 
 <h3 align="center">Connect with me on </h3>
 <h4><a align="center">< href="https://www.xing.com/profile/Yakup_Budak015270/web_profiles?expandNeffi=true"><img src="https://rheamoore.de/wp-content/uploads/xing-logo-white.jpg" width="55" height="55"></a></h4>
-<h4 align="center"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></h4>
+<h4 align="center"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /h4>
 <a align="center"> href="https://www.youtube.com/watch?v=RP4abiHdQp"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /a>
 
 
