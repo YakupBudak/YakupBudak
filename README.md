@@ -9,7 +9,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 
 
-<h2 align="center">You have one wish:crystal_ball: if you can solve a Rubik's Cube :)</h2>
+<h2 align="center">You have one wish :crystal_ball: if you can solve a Rubik's Cube :)</h2>
   <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100" /></p>
 
 
