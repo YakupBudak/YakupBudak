@@ -1,7 +1,7 @@
 ### Welcome To my GitHub Profile ### 
-<h1 align="center">Hello There :) my name is Yakup Budak</h1>
-<h3 align="center">A passionate Learning full-stack developer from Hamburg, Germany <br>
-I design and create new inspiring 3D models, architectures, homemade artworks, intuitive software and some times i put all my creativity in a Website 
+<h1 align="center">Hello there :) my name is Yakup Budak</h1>
+<h3 align="center">A passionate learning full-stack developer from Hamburg, Germany <br>
+I design and create new inspiring 3D models, architectures, homemade artworks, intuitive software and some times i put all my creativity in a website 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakupbudak&label=Profile%20views&color=0e75b6&style=flat" alt="yakupbudak" /> </p>
@@ -15,7 +15,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 
 <h2 align="center">Languages and some tools i prefere to use:</h2>
-<p align="center"><img src="https://camo.githubusercontent.com/49f20b314f2ab7a967aecd67c14b78a78d219d350b335992a2aacf68183a4911/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="25" height="25" />
+<p align="center"><img src="https://camo.githubusercontent.com/49f20b314f2ab7a967aecd67c14b78a78d219d350b335992a2aacf68183a4911/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="20" height="20" />
 
 
 <p align="center">
