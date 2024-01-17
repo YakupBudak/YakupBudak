@@ -20,7 +20,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,visualstudio,vscode,idea,godot,java,php,mysql,html,css,js,github,ps," />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,visualstudio,vscode,idea,blender,java,php,mysql,html,css,js,github,ps," />
   </a>
 </p    
 
