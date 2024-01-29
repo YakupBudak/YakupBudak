@@ -10,7 +10,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 
 <h2 align="center">You have one wish :crystal_ball: if you can solve a Rubik's Cube :)</h2>
-  <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100" style="background: none; border: none;/></p>
+  <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM4ZjUxdG5tcHdxdzhnMG5lcHFxdXNzajc5Z3JwaGVrOTQxNWtjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" alt="" width="130" height="100" style="background: none;/></p>
 
 ![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
