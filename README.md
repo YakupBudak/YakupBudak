@@ -6,7 +6,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 
 <div align="center">
-  @@ Views (and bold)@@
+  <p style="color:#FF0000";>Red paragraph text</p>
   <img src="https://profile-counter.glitch.me/yakupbudak/count.svg?"  />
 </div>
 
