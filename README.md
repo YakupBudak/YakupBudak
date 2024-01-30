@@ -4,9 +4,12 @@
 I design and create new inspiring 3D models, architectures, homemade artworks, intuitive software and some times i put all my creativity in a website 
 </h3>
 
+
 <div align="center">
+  <span style="color: green"> Views </span>
   <img src="https://profile-counter.glitch.me/yakupbudak/count.svg?"  />
 </div>
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI0aXkyazhxYjhiOWtremVvNmx5aHVnbng1OW83cmpuNGhhcDh2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1173PdfJWRsoE/giphy.gif" alt="" width="1000" height="200" >
 
 
