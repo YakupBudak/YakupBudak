@@ -12,8 +12,8 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 <h2 align="center">You have one wish :crystal_ball: if you can solve a Rubik's Cube :)</h2>
   <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpyZnptZzJzM2tiMmhzZW5icmtvOW5zcXZnMzk1bXF6NmljMnJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4SS63h7k5umY/giphy.gif" alt="" width="130" height="100" /></p>
 
-![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
+![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhorikov&layout=compact&theme=midnight-purple&hide_border=true)<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRsaXMwbzVyNm00eXBhOWJlbnVucjF1enFicTVkdWw5bnptanRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DvE1ngb5xZ242CTPD/giphy.gif" alt="" width="180" height="160" />
 
