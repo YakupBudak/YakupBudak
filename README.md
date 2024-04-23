@@ -22,7 +22,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 ![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhorikov&layout=compact&theme=midnight-purple&hide_border=true)<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRsaXMwbzVyNm00eXBhOWJlbnVucjF1enFicTVkdWw5bnptanRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DvE1ngb5xZ242CTPD/giphy.gif" alt="" width="180" height="160" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupbudak&layout=compact&theme=midnight-purple&hide_border=true)<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRsaXMwbzVyNm00eXBhOWJlbnVucjF1enFicTVkdWw5bnptanRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DvE1ngb5xZ242CTPD/giphy.gif" alt="" width="180" height="160" />
 
 [![yakupbudak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yakupbudak&bg_color=000000&color=00b3ff&line=7308dd&point=15e506&area=true&hide_border=true)](https://github.com/yakupbudak/github-readme-activity-graph)
 <h2 align="center">Languages and some tools i prefere to use:</h2>
