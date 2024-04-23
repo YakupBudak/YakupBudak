@@ -22,9 +22,9 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 <br>
 <br>
 <h2 align="center">Projects i am actually working on</h2>
-<h4 align="center">Desk-Management with ASP.NET</h4>
-<h2 align="center">WaterWorld-Draft with C# Unity</h2>
-
+<p align="center">Desk-Management with ASP.NET</p>
+<hp align="center">WaterWorld-Draft with C# Unity</p>
+<h2></h2>
 ![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
 
 
