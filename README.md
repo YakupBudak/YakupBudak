@@ -19,6 +19,10 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 <h2 align="center">You have one wish :crystal_ball: if you can solve a Rubik's Cube :)</h2>
   <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpyZnptZzJzM2tiMmhzZW5icmtvOW5zcXZnMzk1bXF6NmljMnJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4SS63h7k5umY/giphy.gif" alt="" width="130" height="100" /></p>
 
+<h3>Projects i am actually working on</h3>
+<h4>Desk-Management with ASP.NET</h4>
+<h4>WaterWorld-Draft with C# Unity</h4>
+
 ![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
 
 
