@@ -17,7 +17,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 
 
-<h2 align="center">Projects i'm actually working on :gear:</h2>
+<h2 align="center">current projects :gear:</h2>
 <p align="center">Desk-Management with ASP.NET8 Core</p>
 <p align="center">WaterWorld-Draft with C# Unity 2019.4 LTS</p>
 <h2></h2>
