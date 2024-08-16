@@ -34,7 +34,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,visualstudio,vscode,idea,eclipse,blender,java,php,mysql,mongodb,html,css,js,git,github,ps,figma,docker,kubernetes,angular,azure,debian,kali,grafana,rabbitmq,raspberrypi," />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,visualstudio,vscode,idea,eclipse,blender,java,php,mysql,mongodb,html,css,js,react,git,github,ps,figma,docker,kubernetes,angular,azure,debian,kali,grafana,rabbitmq,raspberrypi," />
   </a>
 </p    
 
