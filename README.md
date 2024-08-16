@@ -18,7 +18,7 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 
 
 <h2 align="center">current projects :gear:</h2>
-<p align="center"><b>ReadVault</b> with Blazor-NET6</p>
+<p align="center"><b>ReadVault</b> with Blazor.NET6</p>
 <p align="center"><b>Desk-Management</b> with ASP.NET8 Core</p>
 <p align="center"><b>WaterWorld-Draft</b> with C# Unity 2019.4 LTS</p>
 <h2></h2>
