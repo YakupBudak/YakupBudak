@@ -48,5 +48,5 @@ I design and create new inspiring 3D models, architectures, homemade artworks, i
 </div>
 
  
- <h4 align="center"> :e-mail: How to reach me for (any) kind of questions :soon: y.budak@mailbox.org :end: </h4> 
+ <h4 align="center"> :e-mail: How to reach me for (any) kind of questions :soon: y.budak@mailbox.org </h4> 
 
