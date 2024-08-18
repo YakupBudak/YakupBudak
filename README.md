@@ -1,7 +1,7 @@
 ### Welcome To my GitHub Profile ### 
 <h1 align="center">Hello :earth_africa: my name is Yakup Budak</h1>
 <h3 align="center">A passionate :notebook:learning developer from Hamburg, Germany <br>
-I design and create new inspiring 3D models, architectures, homemade artworks, intuitive software and some times i put all my creativity in a website 
+I design and create 3D architectures, models, homemade artworks, intuitive software and some times i put all my creativity in a website 
 </h3>
 
 
