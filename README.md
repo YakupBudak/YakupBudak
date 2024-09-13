@@ -49,4 +49,3 @@ I design and create 3D architectures, models, homemade artworks, intuitive softw
 
  
  <h4 align="center"> :e-mail: How to reach me for (any) kind of questions :soon: y.budak@mailbox.org </h4> 
-
