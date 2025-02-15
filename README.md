@@ -1,8 +1,6 @@
 ### Welcome To my GitHub Profile ### 
 <h1 align="center">Hello :earth_africa: my name is Yakup Budak</h1>
-<h3 align="center">A passionate :notebook:learning developer from Hamburg, Germany <br>
-I design and create 3D architectures, models, homemade artworks, intuitive software and some times i put all my creativity in a website 
-</h3>
+<h3 align="center">A passionate :notebook: developer from Hamburg, Germany <br></h3>
 
 
 <div align="center">
@@ -10,17 +8,6 @@ I design and create 3D architectures, models, homemade artworks, intuitive softw
   <img src="https://profile-counter.glitch.me/yakupbudak/count.svg?"  />
 </div>
 
-
-
-
-
-
-
-
-<h2 align="center">current projects :gear:</h2>
-<p align="center"><b>ReadVault</b> with Blazor.NET6</p>
-<p align="center"><b>Desk-Management</b> with ASP.NET8 Core</p>
-<p align="center"><b>WaterWorld-Draft</b> with C# Unity 2019.4 LTS</p>
 <h2></h2>
 
 ![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
