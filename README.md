@@ -9,8 +9,8 @@
 
 ![yakupbudak's Stats](https://github-readme-stats.vercel.app/api?username=yakupbudak&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)![yakupbudak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakupbudak&theme=midnight-purple&hide_border=true)
 
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupbudak&layout=compact&theme=midnight-purple&hide_border=true)
+<div align="center" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupbudak&layout=compact&theme=midnight-purple&hide_border=true)>
+
 </div>
 
 <div align="center">
