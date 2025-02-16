@@ -1,10 +1,8 @@
 ### Welcome To my GitHub Profile ### 
-<h1 align="center">Hello :earth_africa: my name is Yakup Budak</h1>
-<h3 align="center">A passionate :notebook: developer from Hamburg, Germany <br></h3>
+![image](https://github.com/user-attachments/assets/7cd7be25-37b6-4450-a00d-d0bfb9a4b54c)
 
 
 <div align="center">
-  <h6>Views</h6>
   <img src="https://profile-counter.glitch.me/yakupbudak/count.svg?"  />
 </div>
 
@@ -27,6 +25,6 @@
 </p    
 
 
-
+<h2></h2>
  
  <h4 align="center"> :e-mail: How to reach me y.budak@mailbox.org </h4> 
