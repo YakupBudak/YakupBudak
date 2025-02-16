@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupbudak&layout=compact&theme=midnight-purple&hide_border=true)
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRsaXMwbzVyNm00eXBhOWJlbnVucjF1enFicTVkdWw5bnptanRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DvE1ngb5xZ242CTPD/giphy.gif" alt="" width="541" height="160" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRsaXMwbzVyNm00eXBhOWJlbnVucjF1enFicTVkdWw5bnptanRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DvE1ngb5xZ242CTPD/giphy.gif" alt="" width="341" height="160" />
 </div>
 
 <h2 align="center">Languages and some tools i prefere to use:</h2>
